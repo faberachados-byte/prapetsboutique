@@ -2097,7 +2097,7 @@ h1 {
 .hero-section {
   object-fit: scale-down;
   background-color: #d0d1ad;
-  background-image: url("./6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
+  background-image: url("https://cdn.prod.website-files.com/687549ad611a6d4efd3b690a/6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
   background-position: 100%;
   background-repeat: repeat;
   background-size: cover;
@@ -2326,7 +2326,7 @@ h1 {
 
 .testimonial-image {
   object-fit: cover;
-  background-image: url("./687552dee60e599ca30941ba_Union.jpg");
+  background-image: url("https://cdn.prod.website-files.com/687549ad611a6d4efd3b690a/687552dee60e599ca30941ba_Union.jpg");
   background-position: 0 0;
   background-size: auto;
   border-radius: 50%;
@@ -2368,7 +2368,7 @@ h1 {
 }
 
 .plano-prapets-imagem.shadow-two {
-  background-image: url("./687821531222f606dd631a27_tosa-triming.png");
+  background-image: url("https://cdn.prod.website-files.com/687549ad611a6d4efd3b690a/687821531222f606dd631a27_tosa-triming.png");
   background-position: 0 0;
   background-size: auto;
   border-radius: 20px;
@@ -2497,7 +2497,7 @@ h1 {
 
 .footer-form-submit {
   background-color: #1a1b1f;
-  background-image: url("./62434fa732124a29b112aac4_ic%20Arrow%20Go.svg");
+  background-image: url("https://cdn.prod.website-files.com/62434fa732124a0fb112aab4/62434fa732124a29b112aac4_ic%20Arrow%20Go.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -2665,7 +2665,7 @@ h1 {
 
 @media screen and (max-width: 991px) {
   .hero-section {
-    background-image: url("./6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
+    background-image: url("https://cdn.prod.website-files.com/687549ad611a6d4efd3b690a/6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
     background-position: 100% 0;
     background-repeat: repeat-x;
     background-size: 100%;
@@ -2827,7 +2827,7 @@ h1 {
 @media screen and (max-width: 767px) {
   .hero-section {
     -webkit-text-fill-color: inherit;
-    background-image: url("./6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
+    background-image: url("https://cdn.prod.website-files.com/687549ad611a6d4efd3b690a/6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
     background-position: 90% 0;
     background-repeat: repeat-x;
     background-size: 100%;
@@ -2993,7 +2993,7 @@ h1 {
 @media screen and (max-width: 479px) {
   .hero-section {
     -webkit-text-fill-color: inherit;
-    background-image: url("./6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
+    background-image: url("https://cdn.prod.website-files.com/687549ad611a6d4efd3b690a/6877f2df72f6d10ee04b1705_background%20-%20Cao-gato.png");
     background-position: 100% 0;
     background-repeat: repeat-x;
     background-size: 100%;
@@ -3211,7 +3211,7 @@ h1 {
   }
 
   .section-2 {
-    background-image: url("./6876db620e4ceb4198e9413a_background.png");
+    background-image: url("https://cdn.prod.website-files.com/687549ad611a6d4efd3b690a/6876db620e4ceb4198e9413a_background.png");
     background-position: 100% 100%;
     background-repeat: repeat;
     background-size: 100%;
